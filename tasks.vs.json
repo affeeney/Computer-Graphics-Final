@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-woode_texture",
+      "appliesTo": "textures/woode_texture.jpg",
+      "type": "launch"
+    }
+  ]
+}
